@@ -1,0 +1,10 @@
+{
+  "name": "command",
+  "packageManager": "yarn@3.8.1",
+  "bin": {
+    "vue": "bin/vue.js"
+  },
+  "dependencies": {
+    "commander": "7.1.0"
+  }
+}
