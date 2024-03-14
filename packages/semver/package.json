@@ -1,0 +1,7 @@
+{
+  "name": "semver",
+  "packageManager": "yarn@3.8.1",
+  "dependencies": {
+    "semver": "^7.6.0"
+  }
+}
