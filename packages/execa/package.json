@@ -1,0 +1,8 @@
+{
+  "name": "execa",
+  "type": "module",
+  "packageManager": "yarn@3.8.1",
+  "dependencies": {
+    "execa": "^8.0.1"
+  }
+}

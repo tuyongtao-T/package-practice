@@ -1,0 +1,7 @@
+{
+  "name": "minimist",
+  "packageManager": "yarn@3.8.1",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
